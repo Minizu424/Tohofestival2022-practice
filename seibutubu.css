@@ -30,3 +30,9 @@ header .gnav .menu li + li {
 main {
     height: 100vw; /* スクロールの演出を見れるようにmainに高さを指定 */
 }
+
+footer{
+    width: 100%;
+    height: 120px;
+    background-color: blue;
+}
